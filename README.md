@@ -9,3 +9,6 @@ This project provides:
 -Method to decrypt RSA 
 -Methond to Encrypt data and detect possible interception
 
+Working:
+The codes utilizes Quantum computing for decrption , encryption of data which takes less computational time as compared to classical computers.
+The Classifier utilizes neural network for classifying the input data into different possile ciphers. The neural network consists of LSTM cell,quantum circuits 
