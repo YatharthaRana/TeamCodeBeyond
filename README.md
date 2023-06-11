@@ -28,3 +28,7 @@ DESCRIPTION OF ENCRYPTOR: QDECC uses BB84 Protocol to encrypt the data. It start
 ![Screenshot (31)](https://user-images.githubusercontent.com/95047694/200166996-7c231a7b-f5f4-41db-bca6-dbbd29a34dde.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/95047694/200167003-65dd6962-2ac4-4476-9802-db3582e3e505.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/95047694/200167004-51953026-c6fc-4a1b-a224-c7e45a37dc09.png)
+
+
+##COLLABORATOR
+Ronnit Gupta [https://github.com/NULL300]
