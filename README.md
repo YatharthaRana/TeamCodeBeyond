@@ -31,7 +31,7 @@ DESCRIPTION OF ENCRYPTOR: QDECC uses BB84 Protocol to encrypt the data. It start
 
 
 ## COLLABORATOR
-Ronnit Gupta [https://github.com/NULL300]
-Yathartha Mishra [https://github.com/Yatharth-2003]
-Yathartha Rana [https://github.com/YatharthaRana]
-Yash [https://github.com/corrosivelogic]
+[Ronnit Gupta](https://github.com/NULL300)
+[Yathartha Mishra](https://github.com/Yatharth-2003)
+[Yathartha Rana](https://github.com/YatharthaRana)
+[Yash](https://github.com/corrosivelogic)
